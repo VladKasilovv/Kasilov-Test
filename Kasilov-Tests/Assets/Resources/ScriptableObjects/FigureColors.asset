@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f05a2e166f91414fb506a860406e43aa, type: 3}
+  m_Name: FigureColors
+  m_EditorClassIdentifier: 
+  figureColorModels:
+  - FigureColorMaterial: {fileID: 2100000, guid: ddee758dea8570041bf27aee930b0588, type: 2}
+    ID: 0
+  - FigureColorMaterial: {fileID: 2100000, guid: 2ab1373a52418994a8c95e7165329768, type: 2}
+    ID: 1
+  - FigureColorMaterial: {fileID: 2100000, guid: 1c7f1bd31f32e2344ba99abd67f0782c, type: 2}
+    ID: 2
+  - FigureColorMaterial: {fileID: 2100000, guid: 68c07afc6ab281c438f691a1b7c94d1c, type: 2}
+    ID: 3
+  - FigureColorMaterial: {fileID: 2100000, guid: f8bd7ad22426643408b4ca9a5574701b, type: 2}
+    ID: 4
+  - FigureColorMaterial: {fileID: 2100000, guid: b9cc92b9b2dbcf3439ba3d5a98233085, type: 2}
+    ID: 5
+  - FigureColorMaterial: {fileID: 2100000, guid: 8e4393e92b5293d489783d328773cbcc, type: 2}
+    ID: 6
+  - FigureColorMaterial: {fileID: 2100000, guid: f91d3016c3bec494d9278079c786b51b, type: 2}
+    ID: 7
